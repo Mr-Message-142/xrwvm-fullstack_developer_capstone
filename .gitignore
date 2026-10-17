@@ -1,0 +1,26 @@
+# Python virtual environments
+
+server/djangoenv/
+venv/
+.venv/
+
+# Python cache files
+
+**pycache**/
+*.py[cod]
+
+# Environment variables and secrets
+
+.env
+
+# Local database
+
+server/db.sqlite3
+
+# Node.js dependencies
+
+node_modules/
+
+# Log files
+
+*.log
