@@ -1,19 +1,28 @@
-# Django Dealership Application
+# fullstack_developer_capstone
 
-## Project Overview
+## Repository Name
 
-The Django Dealership Application is a full-stack web application designed to help users explore car dealerships, view dealership information, and read or submit customer reviews.
+xrwvm-fullstack_developer_capstone
 
-## Objectives
+## Project Name
 
-* Display dealership information.
+fullstack_developer_capstone
+
+## Project Description
+
+This project is the Full Stack Developer Capstone, which focuses on building a full-stack car dealership application. The application allows users to explore dealerships, view dealership information, and interact with customer reviews.
+
+## Project Objectives
+
+* Develop a full-stack web application.
+* Display car dealerships and their details.
 * Filter dealerships by state.
-* Provide user registration and authentication.
-* Display dealership details and customer reviews.
-* Allow authenticated users to submit reviews.
-* Analyze review sentiment.
-* Display available car makes and models.
-* Automate testing and deployment using GitHub Actions.
+* Implement user registration, login, and logout.
+* Retrieve dealership reviews and allow users to submit reviews.
+* Integrate sentiment analysis for customer reviews.
+* Display car makes and models.
+* Configure continuous integration and continuous delivery using GitHub Actions.
+* Prepare the application for deployment.
 
 ## Technologies
 
@@ -28,4 +37,4 @@ The Django Dealership Application is a full-stack web application designed to he
 
 ## Project Status
 
-Project setup and development are in progress.
+The capstone application is under development.
